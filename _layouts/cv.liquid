@@ -14,13 +14,15 @@ layout: none
       height: 100%;
     }
     iframe {
-      width: 100%;
-      height: 100%;
+      width: 100vw;
+      height: 100vh;
       border: none;
     }
   </style>
 </head>
 <body>
-  <iframe src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}"></iframe>
+  <iframe 
+    src="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url }}#toolbar=0&navpanes=0&scrollbar=0">
+  </iframe>
 </body>
 </html>

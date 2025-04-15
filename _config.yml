@@ -9,7 +9,7 @@ last_name: Islam
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Graduate Research Assistant | PhD student, UF
+  Graduate Research Assistant | PhD Candidate, FAU
 footer_text: >
   
 keywords: uwaise # add your own keywords or leave empty
@@ -263,8 +263,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Islam]
+  first_name: [Uwaise Ibna]
 
   style: apa
   locale: en

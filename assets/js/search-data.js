@@ -396,8 +396,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-gap-is-now-out-on-briefings-in-bioinformatics-5yrs-if-13-99",
+          title: 'GAP is now out on Briefings in Bioinformatics (5yrs IF: 13.99) 🥳',
           description: "",
           section: "News",},{id: "news-i-will-be-transferring-to-uf-cise-dept-as-phd-student",
           title: 'I will be transferring to UF CISE dept as PhD Student.',

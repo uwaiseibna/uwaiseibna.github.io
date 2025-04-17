@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be transferring to UF CISE dept as PhD Student.
+I will be transferring to University of Florida CISE dept. from Summer'25.

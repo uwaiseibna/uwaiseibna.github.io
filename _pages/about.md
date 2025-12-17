@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ufl.edu'>University of Florida</a>, United States, uwaiseibna03atgmaildotcom.
-
+subtitle: <a href='https://www.ufl.edu'>University of Florida</a>, United States.
 profile:
   align: right
   image: prof_pic.jpg

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ufl.edu'>University of Florida</a>, United States, uwaiseibna03atgmaildotcom.
 
 profile:
   align: right

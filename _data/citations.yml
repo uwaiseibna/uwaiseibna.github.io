@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-20'
 papers:
   NCg_OuMAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: Scalable PBWT Queries with Minimum-Length SMEM Constraints
     year: '2025'
   NCg_OuMAAAAJ:UeHWp8X0CEIC:
-    citations: 10
+    citations: 9
     title: Machine learning classification algorithms for predicting depression among university students in Bangladesh
     year: '2022'
   NCg_OuMAAAAJ:d1gkVwhDpl0C:
@@ -18,6 +18,6 @@ papers:
     title: "Learning genotype\u2013phenotype associations from gaps in multi-species sequence alignments"
     year: '2025'
   NCg_OuMAAAAJ:u-x6o8ySG0sC:
-    citations: 11
+    citations: 12
     title: Predicting individual substance abuse vulnerability using machine learning techniques
     year: '2020'

@@ -424,20 +424,6 @@ ninja.data = [{
           window.open("/assets/pdf/Uwaise_CV.pdf", "_blank");
         },
       },{
-        id: 'social-email',
-        title: 'email',
-        section: 'Socials',
-        handler: () => {
-          window.open("mailto:%75%77%61%69%73%65%69%62%6E%61%30%33@%67%6D%61%69%6C.%63%6F%6D", "_blank");
-        },
-      },{
-        id: 'social-facebook',
-        title: 'Facebook',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://facebook.com/uwaiseibna", "_blank");
-        },
-      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',

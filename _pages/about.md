@@ -26,4 +26,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Computer and Information Science PhD student in University of Florida. I work under the supervision of Dr. Christina Boucher with research concentration in Bionformatics. Currently working on scalable PBWT querying on BioBank scale data on phased haplotypes. Previously, I worked as a research assistant in the AssisGroup at Florida Atlantic University where I worked on developing ML framework to learn cross-species genotype-phenotype associations from gaps in sequence alignments. I like to play soccer and travel when I am not busy with work. 
+Computer and Information Science PhD student at the University of Florida. I work under the supervision of Dr. Christina Boucher with a research concentration in Bioinformatics. My primary research focus is on building scalable algorithms for population genomics. Previously, as a research assistant in Dr. Raquel Assis's lab at Florida Atlantic University, I developed a machine learning framework for studying cross-species genotype-phenotype associations. I like to play soccer and travel when I'm not busy with work.

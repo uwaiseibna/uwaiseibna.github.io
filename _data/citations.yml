@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-30'
 papers:
   NCg_OuMAAAAJ:IjCSPb-OGe4C:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: A machine learning model for predicting individual substance abuse with associated risk-factors
     year: '2023'
   NCg_OuMAAAAJ:qjMakFHDy7sC:
-    citations: 0
+    citations: 1
     title: "Learning genotype\u2013phenotype associations from gaps in multi-species sequence alignments"
     year: '2025'
   NCg_OuMAAAAJ:u-x6o8ySG0sC:

@@ -1,23 +1,27 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-08-03'
 papers:
   NCg_OuMAAAAJ:IjCSPb-OGe4C:
-    citations: 0
-    title: Scalable PBWT Queries with Minimum-Length SMEM Constraints
+    citations: 1
+    title: Scalable PBWT queries with minimum-length SMEM constraints
     year: '2025'
   NCg_OuMAAAAJ:UeHWp8X0CEIC:
     citations: 10
     title: Machine learning classification algorithms for predicting depression among university students in Bangladesh
     year: '2022'
   NCg_OuMAAAAJ:d1gkVwhDpl0C:
-    citations: 34
-    title: A machine learning model for predicting individual substance abuse with associated risk-factors
+    citations: 33
+    title: 'A Machine Learning Model for Predicting Individual Substance Abuse with Associated Risk-Factors: Islam et al.'
     year: '2023'
   NCg_OuMAAAAJ:qjMakFHDy7sC:
     citations: 1
     title: "Learning genotype\u2013phenotype associations from gaps in multi-species sequence alignments"
     year: '2025'
   NCg_OuMAAAAJ:u-x6o8ySG0sC:
-    citations: 14
+    citations: 15
     title: Predicting individual substance abuse vulnerability using machine learning techniques
     year: '2020'
+  NCg_OuMAAAAJ:zYLM7Y9cAGgC:
+    citations: 0
+    title: Scaling the PBWT for Long-Range Shared Ancestry Detection in Large Haplotype Panels
+    year: '2025'

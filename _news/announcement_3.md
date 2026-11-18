@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[PBML](https://github.com/uwaiseibna/PBML) pre-print available on [BioXriv](https://www.biorxiv.org/content/10.64898/2025.12.01.691644v1.article-metrics) :sparkles: :smile:
+[PBML](https://github.com/uwaiseibna/PBML) pre-print available on [bioRxiv](https://www.biorxiv.org/content/10.64898/2025.12.01.691644v1.article-metrics) :sparkles: :smile:
